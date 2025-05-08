@@ -4,6 +4,6 @@ tags={
 	"Loading Screen"
 }
 picture="thumbnail.png"
-supported_version="3.14.*"
+supported_version="v4.0.*"
 path="mod/firstcontact_background"
 remote_file_id="3247012483"
